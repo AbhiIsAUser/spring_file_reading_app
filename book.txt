@@ -1,0 +1,5 @@
+101,java,100
+102,python,100
+103,docker,100
+104,cicd,100
+105,jenkins,100
